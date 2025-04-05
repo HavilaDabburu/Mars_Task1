@@ -63,3 +63,20 @@ To be honest, I used a lot of resources, but here are the main ones:
 
 ---
 
+# # My Rough Work
+
+![Image](https://github.com/user-attachments/assets/aca80ec3-8190-4de6-8ec7-1370411cf8cf)
+
+![Image](https://github.com/user-attachments/assets/7f0ac486-5964-4714-bbff-6eb930fada98)
+
+![Image](https://github.com/user-attachments/assets/56b46af3-a06d-430d-8701-c9079af4ff03)
+
+![Image](https://github.com/user-attachments/assets/4752879f-91e0-4f9f-93db-293d6fbe73de)
+
+![Image](https://github.com/user-attachments/assets/d2687ef6-fce9-4376-8ef8-dae2780c9c72)
+
+![Image](https://github.com/user-attachments/assets/3a656553-a361-4eac-ae41-6a4ab99373fd)
+
+![Image](https://github.com/user-attachments/assets/e7ae273a-f45e-4379-9252-1b15aea97b7d)
+
+![Image](https://github.com/user-attachments/assets/649a2062-bac6-4dd5-9fc9-51aadecf58ad)
