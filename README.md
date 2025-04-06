@@ -21,10 +21,10 @@ I never thought I would face this many challenges in such a short span of time.
 
 - I dual-booted my system successfully and started working on it.
 - Then, suddenly my Ubuntu screen started flickering.
-- I asked an AI what to do.
+- I asked Chatgpt what to do.
 - It gave me some instructions—I followed them blindly, and it messed up the graphics system.
 - I had to delete and reinstall Ubuntu.
-- Again, I asked AI for help—it gave me some more instructions and I lost Windows completely.
+- Again, I asked Chatgpt for help—it gave me some more instructions and I lost Windows completely.
 - My system had no operating system at all.
 - I spent 8 hours installing Windows again using my friend's laptop.
 - Finally, I got my Windows back, but my work was lost.
